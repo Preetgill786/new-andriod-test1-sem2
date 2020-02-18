@@ -25,7 +25,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/macstudent/AndroidStudioProjects/Lab12/app/src/debug/java;/Users/macstudent/AndroidStudioProjects/Lab12/app/src/release/kotlin;/Users/macstudent/AndroidStudioProjects/Lab12/app/src/release/java;/Users/macstudent/AndroidStudioProjects/Lab12/app/src/debugAndroidTest/kotlin;/Users/macstudent/AndroidStudioProjects/Lab12/app/src/debugUnitTest/kotlin;/Users/macstudent/AndroidStudioProjects/Lab12/app/src/releaseUnitTest/kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/macstudent/Downloads/new-andriod-test1-sem2-master/Lab12/app/src/debug/java;/Users/macstudent/Downloads/new-andriod-test1-sem2-master/Lab12/app/src/release/kotlin;/Users/macstudent/Downloads/new-andriod-test1-sem2-master/Lab12/app/src/release/java;/Users/macstudent/Downloads/new-andriod-test1-sem2-master/Lab12/app/src/debugAndroidTest/kotlin;/Users/macstudent/Downloads/new-andriod-test1-sem2-master/Lab12/app/src/debugUnitTest/kotlin;/Users/macstudent/Downloads/new-andriod-test1-sem2-master/Lab12/app/src/releaseUnitTest/kotlin">
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>

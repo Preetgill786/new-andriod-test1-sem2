@@ -7,8 +7,9 @@ import androidx.recyclerview.widget.RecyclerView
 class ListSelectionRecyclerViewAdapter :
     RecyclerView.Adapter<ListSelectionViewHolder>() {
 
-    val listTitles = arrayOf("Shopping List", "Chores", "Android Tutorials")
+    // val listTitles = arrayOf("Shopping List", "Chores", "Android Tutorials")
 
+    val listTitles = arrayOf<String>()
     override fun onCreateViewHolder(parent: ViewGroup,
 
                                     viewType: Int): ListSelectionViewHolder {

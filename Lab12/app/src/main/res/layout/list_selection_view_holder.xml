@@ -18,7 +18,7 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
         <EditText
-            android:id="@+id/name"
+            android:id="@+id/Sname"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -39,7 +39,7 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
         <EditText
-            android:id="@+id/age"
+            android:id="@+id/Sage"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -59,7 +59,7 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
         <EditText
-            android:id="@+id/fees"
+            android:id="@+id/Sfees"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
@@ -79,7 +79,7 @@
             android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
         <EditText
-            android:id="@+id/date"
+            android:id="@+id/Sdate"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
